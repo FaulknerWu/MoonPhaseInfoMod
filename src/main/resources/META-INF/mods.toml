@@ -1,0 +1,11 @@
+modLoader="javafml"
+loaderVersion="[34,)"
+license="GNU GPLv3"
+[[mods]]
+modId="moon_phase"
+version="${file.jarVersion}"
+displayName="MoonPhaseInfoMod"
+authors="Faulkner"
+description='''
+A simple mod to display moon phase information
+'''
